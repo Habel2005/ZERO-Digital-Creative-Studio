@@ -26,4 +26,4 @@ Staggered reveals on every section
 Badge parallax that rotates and fades on scroll
 
 ### 7 Fully Styled Sections — nav, hero, marquee, about+stats, 2×2 work grid, scrolling type reel, 4-column process, contact CTA, footer.
-### Open the file in any modern browser — no build step, no server needed.
+### _Open the file in any modern browser — no build step, no server needed._
