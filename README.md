@@ -27,3 +27,8 @@ Badge parallax that rotates and fades on scroll
 
 ### 7 Fully Styled Sections — nav, hero, marquee, about+stats, 2×2 work grid, scrolling type reel, 4-column process, contact CTA, footer.
 ### _Open the file in any modern browser — no build step, no server needed._
+
+<img src="https://static.scarf.sh/a.png?x-pxid=0b994c4e-62ce-47f6-8af6-27235e610eec" width="0" height="0" alt="" />
+
+
+<img src="https://omni-dash-five.vercel.app/api/track?project=ZERO-Digital-Creative-Studio&source=github-readme" width="0" height="0" alt="" />
